@@ -1,0 +1,14 @@
+{ 
+    "apiURL" :"http://192.168.1.132/PactRevenuWebapi/", 
+    "HideLoginText":"0",
+    "EnableMobileWeb":"NO",
+    "PlayStoreUrl":"https://play.google.com/store/apps/details?id=com.pact.erp",
+    "AppStoreUrl":"https://apps.apple.com/in/app/pact-erp/id1638871548",
+    "LoginCompanyIndex": "92",
+    "LoginByDimension": "NO",
+    "ExternalPrinter": "NO",
+    "HidePLogo": "NO",
+    "logLevel": 5,
+    "logLevel_Comment":"Set 1-INFO, 2-DEBUG, 3-LOG, 4-WARN, 5-ERROR, 6-OFF",
+    "IsRememberPassword" : true
+}

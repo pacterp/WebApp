@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkRevenUWebApp=self.webpackChunkRevenUWebApp||[]).push([[7806],{77806:(r,n,e)=>{e.r(n),e.d(n,{SafeAreaWeb:()=>s});var _=e(74523),a=e(37464);class s extends a.E_{enable(u){return(0,_.A)(function*(){})()}disable(u){return(0,_.A)(function*(){})()}}}}]);
